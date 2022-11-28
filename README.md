@@ -1,45 +1,72 @@
-Diario del proyecto MID-TERM 
-[Link Trello](https://trello.com/invite/b/AbzxvOW1/ATTI071524da07484d371f5452d6442a9975B0E0040A/midterm-project)
+IronHackProject
+Objetivo final:
+Clonar esta misma web (responsive): https://circle*agency*35d27e.webflow.io/
 
-# DIA 1 21/11/2022
+Esquema:
 
-- Creación repositorio github
-- Organzación en trello
-- Creación de archivos del proyecto
-- Estructura HTML home page
-- Código completo HTML home page
+Home: Navbar *, Sección de héroe, Sección Cliente, Sección de Proyectos, Sección de Testimonios, Sección de Servicios, Sección CTA (Call to Action) * y Sección de pie de página *.
 
-# DIA 2 22/11/2022
+Contact us: Navbar, contacta y Sección de pie de página.
 
-- Código CSS section 1 home page
-- Código CSS section 2 home page
-- Código CSS section 3 home page
-- Código CSS section 4 home page
-- Código CSS section 5 home page
-- Código CSS section 6 home page
-- Código CSS footer
+Proyecto: Navbar, Section del proyecto, Sección de los proyectos, Sección CTA (Call to Action) y Sección de pie de página.
 
-# DIA 3 23/11/2022
+Reutilizar codigo*
 
-- Media query min 480px home page
-- Media query min 768px home page
-- Media query min 992px home page
-- Estructura HTML contact
-- Código HTML contact
-- Código CSS contact
-- Media query min 768px contact
-- Código HTML project
-- Código CSS project
-- Media query project
+Planificación:
+https://trello.com/b/5FEPwSgA/kanban*template
 
-# DIA 4 24/11/2022
+Lunes 21, noviembre, 2022:
 
-- Menú "hamburguesa"
-- JavaScript contact
-- JavaScript projects page
+✅ Creación del repositorio.
+✅ Creación de las carpetas principales organizativas.
+✅ Vincular proyecto local con el repositorio de git.
+✅ Creación de primeros archivos.
+✅ Vincular archivos entre sí.
+✅ Planificar proyecto.
 
-# DIA 5 25/11/2022
+Martes 22, noviembre 2022
 
-- JavaScript home page
-- Repaso que todo este correcto
-- Presentación
+✅ Estructura HTML Home.
+✅ Estructura HTML Contact us.
+✅ Estructura HTML Home Proyect.
+✅ Agregar navegación entre las páginas.
+✅ Preparar el CSS mobile navbar.
+✅ Preparar el CSS mobile sección de héroe.
+✅ Preparar el CSS mobile sección Cliente.
+✅ Preparar el CSS mobile sección de Proyectos.
+✅ Preparar el CSS mobile sección de Testimonios.
+✅ Preparar el CSS mobile sección de Servicios.
+✅ Preparar el CSS mobile sección CTA (Call to Action).
+✅ Preparar el CSS mobile sección de pie de página.
+
+Miercoles 23, noviembre 2022
+
+✅ Preparar el CSS mobile sección de Servicios.
+✅ Preparar el CSS mobile sección CTA (Call to Action).
+✅ Preparar el CSS mobile sección de pie de página.
+✅ Preparar el CSS PC navbar.
+✅ Preparar el CSS PC sección de héroe.
+✅ Preparar el CSS PC sección Cliente.
+✅ Preparar el CSS PC sección de Proyectos.
+✅ Preparar el CSS PC sección de Testimonios.
+✅ Preparar el CSS PC sección de Servicios.
+✅ Preparar el CSS PC sección CTA (Call to Action).
+✅ Preparar el CSS PC sección de pie de página.
+✅ Empezar a hacer obligatorio todos los campos del formulario de contacto antes de poder enviarlo.
+
+Jueves 24, noviembre 2022
+
+✅ Finalizar la parte de hacer obligatorio todos los campos del formulario de contacto antes de poder enviarlo.
+✅ Hacer obligatorio una estructura de email en sección CTA (Call to Action).
+✅ Si enviamos el formulario, imprimir en consola. Si no saltar alert.
+✅ Estructura HTML Home Proyect.
+✅ Preparar el CSS mobile Home Proyect.
+✅ Preparar el CSS tablet Home Proyect.
+✅ Preparar el CSS PC Home Proyect.
+✅ Api para dinamismo proyect selected .
+✅ Repasar que este todo listo y retocar aquello que falte.
+
+Viernes 25, noviembre 2022
+
+👩🏻‍🔧 Repasar que este todo listo y retocar aquello que falte.
+👩🏻‍🔧 Preparar presentación.
